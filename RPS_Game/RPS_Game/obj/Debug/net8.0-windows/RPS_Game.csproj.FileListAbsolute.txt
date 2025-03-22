@@ -1,0 +1,17 @@
+D:\C#\RPS_Game\RPS_Game\bin\Debug\net8.0-windows\RPS_Game.exe
+D:\C#\RPS_Game\RPS_Game\bin\Debug\net8.0-windows\RPS_Game.deps.json
+D:\C#\RPS_Game\RPS_Game\bin\Debug\net8.0-windows\RPS_Game.runtimeconfig.json
+D:\C#\RPS_Game\RPS_Game\bin\Debug\net8.0-windows\RPS_Game.dll
+D:\C#\RPS_Game\RPS_Game\bin\Debug\net8.0-windows\RPS_Game.pdb
+D:\C#\RPS_Game\RPS_Game\obj\Debug\net8.0-windows\RPS_Game.Form1.resources
+D:\C#\RPS_Game\RPS_Game\obj\Debug\net8.0-windows\RPS_Game.Properties.Resources.resources
+D:\C#\RPS_Game\RPS_Game\obj\Debug\net8.0-windows\RPS_Game.csproj.GenerateResource.cache
+D:\C#\RPS_Game\RPS_Game\obj\Debug\net8.0-windows\RPS_Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\RPS_Game\RPS_Game\obj\Debug\net8.0-windows\RPS_Game.AssemblyInfoInputs.cache
+D:\C#\RPS_Game\RPS_Game\obj\Debug\net8.0-windows\RPS_Game.AssemblyInfo.cs
+D:\C#\RPS_Game\RPS_Game\obj\Debug\net8.0-windows\RPS_Game.csproj.CoreCompileInputs.cache
+D:\C#\RPS_Game\RPS_Game\obj\Debug\net8.0-windows\RPS_Game.dll
+D:\C#\RPS_Game\RPS_Game\obj\Debug\net8.0-windows\refint\RPS_Game.dll
+D:\C#\RPS_Game\RPS_Game\obj\Debug\net8.0-windows\RPS_Game.pdb
+D:\C#\RPS_Game\RPS_Game\obj\Debug\net8.0-windows\RPS_Game.genruntimeconfig.cache
+D:\C#\RPS_Game\RPS_Game\obj\Debug\net8.0-windows\ref\RPS_Game.dll
